@@ -1,1 +1,1 @@
-Making an OS. Join me.
+Building an OS. Join me.
